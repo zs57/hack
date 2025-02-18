@@ -1,0 +1,6 @@
+colorama
+pyttsx3
+requests
+pyfiglet
+rich
+curses
